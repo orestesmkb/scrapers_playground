@@ -1,0 +1,7 @@
+login.txt
+venv
+tmp
+.idea
+*.log
+*.csv
+__pycache__
